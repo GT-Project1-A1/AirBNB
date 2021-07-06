@@ -1,3 +1,7 @@
+![image](https://user-images.githubusercontent.com/68715598/124608064-67742100-de3c-11eb-8ba6-04d406bc4cc0.png)
+![image](https://user-images.githubusercontent.com/68715598/124608143-79ee5a80-de3c-11eb-92e6-cfbad628d40d.png)
+![image](https://user-images.githubusercontent.com/68715598/124608179-81156880-de3c-11eb-8766-f1b1959725b0.png)
+
 This is the repository for Project 1.
 Team members include: Niraj Khatri, Grace Arhin, Josh Mills, Ting Jennings, and Clay Bazzle
 
@@ -7,7 +11,7 @@ Team members include: Niraj Khatri, Grace Arhin, Josh Mills, Ting Jennings, and 
 - Project1_FinalPresentation.pptx
 - Summary Document.docx
 - README.md
-Group 1A: Airbnb and the Housing Market
+- Group 1A: Airbnb and the Housing Market
 The group merged a data set from Zillow detailing average housing costs by month in the United States with data from Airbnb listings in the US.  Most of the Airbnb listings were active in 2020.
 The data was cleaned by making mismatched date formats in the Airbnb data set uniform and ensuring cities were all named the same.  For example, New York City was sometimes identified as “New York” so these city names were altered to be labeled as one group.  After the data was cleaned the data sets were merged and there were eleven cities used.
 First, the group analyzed whether the number of Airbnb listings affected the change in home sale price over a period of time.  Analysis showed that the number of Airbnb listings has little to no effect on the change in housing prices over multiple years.
