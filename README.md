@@ -1,6 +1,7 @@
 ![image](https://user-images.githubusercontent.com/68715598/124608064-67742100-de3c-11eb-8ba6-04d406bc4cc0.png)
 ![image](https://user-images.githubusercontent.com/68715598/124608143-79ee5a80-de3c-11eb-92e6-cfbad628d40d.png)
 ![image](https://user-images.githubusercontent.com/68715598/124608179-81156880-de3c-11eb-8766-f1b1959725b0.png)
+![image](https://user-images.githubusercontent.com/68715598/124609090-4eb83b00-de3d-11eb-919a-db7a4d0f3bb8.png)
 
 This is the repository for Project 1.
 Team members include: Niraj Khatri, Grace Arhin, Josh Mills, Ting Jennings, and Clay Bazzle
